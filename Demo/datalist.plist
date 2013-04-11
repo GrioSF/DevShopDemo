@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>alertLaunchImage</key>
+		<string>0.png</string>
+		<key>alertBody</key>
+		<string>Welcome to the Dev Shop!</string>
+		<key>userInfo</key>
+		<dict>
+			<key>message</key>
+			<string>Welcome to the Dev Shop. Your job is to keep this place going, and to keep everyone happy. Spend the budget on needs as they arrive.
+Be smart, and good luck!</string>
+			<key>image</key>
+			<string>shop.png</string>
+		</dict>
+		<key>applicationIconBadgeNumber</key>
+		<string>0</string>
+		<key>delay</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>alertLaunchImage</key>
+		<string>0.png</string>
+		<key>alertBody</key>
+		<string>GRUMBLE, GRUMBLE.
+Hungry developers. Feed us now!</string>
+		<key>userInfo</key>
+		<dict>
+			<key>message</key>
+			<string>It&apos;s been a long day and blood sugars are low. Running a digital sweat shop ain&apos;t easy. Head over to the store and keep those engineers happy with some of that yummy Cali goodness!</string>
+			<key>image</key>
+			<string>burrito.png</string>
+		</dict>
+		<key>applicationIconBadgeNumber</key>
+		<string>1</string>
+		<key>delay</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>alertLaunchImage</key>
+		<string>1.png</string>
+		<key>alertBody</key>
+		<string>PRRSSST!
+Thirsty engineers! We must have beer!</string>
+		<key>userInfo</key>
+		<dict>
+			<key>message</key>
+			<string>The fridge is empty and the engineers are getting cranky. Time to loosen things up with some cold IPA! You can find some at the store.</string>
+			<key>image</key>
+			<string>beer.png</string>
+		</dict>
+		<key>applicationIconBadgeNumber</key>
+		<string>1</string>
+		<key>delay</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>alertLaunchImage</key>
+		<string>2.png</string>
+		<key>alertBody</key>
+		<string>The office is a mess!</string>
+		<key>userInfo</key>
+		<dict>
+			<key>message</key>
+			<string>When was the last time this office was cleaned? The carpet looks terrible. Head to the store, buy a vacuum, and keep it in your closet!</string>
+			<key>image</key>
+			<string>vacuum.png</string>
+		</dict>
+		<key>applicationIconBadgeNumber</key>
+		<string>1</string>
+		<key>delay</key>
+		<string>2</string>
+	</dict>
+</array>
+</plist>
